@@ -1,0 +1,1 @@
+insert, select, bubble, merge and quick sort
